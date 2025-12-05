@@ -1,0 +1,48 @@
+#dune{
+background-color:rgb(209, 137, 42);
+h3{
+    color: white;
+    font-style: oblique;
+    font-size: large;
+}
+color: white;
+text-align: center;
+a{
+    color: white;
+}
+}
+#grownups{
+background-color: rgb(52, 240, 240);
+h3{
+    color: darkblue;
+    font-style:italic;
+}font-size: large;
+p{
+    color: darkblue;
+}
+ 
+    text-align: center;
+}
+#American{
+background-color:black ;
+color: red;
+a{
+    color: red;
+}
+text-align: center;
+}
+#name{
+    background-color: bisque;
+    color:darkorange;
+    font-style: oblique;
+    text-align: center;
+}
+body{
+background-color: bisque;
+}
+.border{
+    border-radius: 10px;
+    border-width: 8px;
+    border-style: solid;
+    border-color: whitesmoke;
+}
